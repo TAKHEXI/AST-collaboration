@@ -1,2 +1,2 @@
 # AST-collaboration
-A virtual and collaborative forum for online learning
+a virtual and collaborative forum tool for online learning
